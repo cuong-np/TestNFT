@@ -1,0 +1,8 @@
+{
+  "ID": 1,
+  "Name": "Legendary Cue",
+  "Image": "https://example.com/images/legendary-cue.png",
+  "Power": 85,
+  "Time": 60,
+  "Anim": 3
+}
