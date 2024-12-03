@@ -1,8 +1,12 @@
 {
-  "ID": 1,
-  "Name": "Cue One",
-  "Image": "image_url_1",
+  "schema_version": "0.2.5",
+  "name": "Cue One",
+  "image": "image_url_1",
   "attributes": [
+    {
+      "trait_type": "Id",
+      "value": 1
+    },
     {
       "trait_type": "Power",
       "value": 10
