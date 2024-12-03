@@ -1,23 +1,24 @@
 {
   "schema_version": "0.2.5",
-  "name": "Cue One",
-  "image": "image_url_1",
-  "attributes": [
-    {
-      "trait_type": "Id",
-      "value": 1
-    },
-    {
-      "trait_type": "Power",
-      "value": 10
-    },
-    {
-      "trait_type": "Time",
-      "value": 60
-    },
-    {
-      "trait_type": "Anim",
-      "value": 5
+  "name": "Magicblock",
+  "image": "https://arweave.net/lEHSq2wqHt8VxOPza9nslMtoLc5KLLtMJ_ZSettuAc0",
+  "external_url": "https://magicblock.gg/",
+  "properties": {
+    "category": "dApp",
+    "creators": [
+      {
+        "address": "",
+        "share": 100
+      }
+    ]
+  },
+  "extensions": {
+    "solana_dapp_store": {
+      "publisher_details": {
+        "name": "Magicblock",
+        "website": "https://magicblock.gg/",
+        "contact": "dev@magicblock.gg"
+      }
     }
-  ]
+  }
 }
