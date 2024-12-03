@@ -1,8 +1,19 @@
 {
   "ID": 1,
-  "Name": "Legendary Cue",
-  "Image": "https://example.com/images/legendary-cue.png",
-  "Power": 85,
-  "Time": 60,
-  "Anim": 3
+  "Name": "Cue One",
+  "Image": "image_url_1",
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": 10
+    },
+    {
+      "trait_type": "Time",
+      "value": 60
+    },
+    {
+      "trait_type": "Anim",
+      "value": 5
+    }
+  ]
 }
